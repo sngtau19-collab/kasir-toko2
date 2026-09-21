@@ -1,0 +1,16 @@
+{
+  "name":"Kasir Toko Pro",
+  "short_name":"Kasir Pro",
+  "description":"Aplikasi kasir toko offline dengan migrasi data aplikasi lama",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f1f4f7",
+  "theme_color":"#1479bd",
+  "orientation":"portrait",
+  "lang":"id",
+  "icons":[
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
